@@ -10,6 +10,8 @@ Este repositorio contiene todos mis proyectos y ejercicios realizados durante el
 - Fundamentos de programación
 - Lógica de programación
 - Introducción al desarrollo web
+- Herramientas Digitales Aplicadas
+- Sistemas Operativos
 
 ## Objetivo
 
